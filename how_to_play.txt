@@ -1,0 +1,7 @@
+How to Play?
+Press button Start
+1.Press 'Space' if you want to shuffle cards and start the game
+2.Press 'E' for input cards (for example: king of spades input like kings, ten of hearts like tenh ->
+-> ((d)Diamonds, (h)Hearts, (c)Clubs, (s)Spades) PS. If you have found all cards, press S
+3.Press 'S' for show cards
+4.Press 'Esc' for back to menu
